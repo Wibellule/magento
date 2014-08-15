@@ -9,3 +9,7 @@ version 1.9.0.1
 Liens utiles
 
 - http://blog.sinabs.fr/category/developpement/
+
+CheatSheet
+
+- http://www.magentix.fr/divers/variables-et-conditions-utiles-magento.html
