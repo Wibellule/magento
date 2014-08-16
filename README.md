@@ -12,4 +12,5 @@ Liens utiles
 
 CheatSheet
 
+- http://www.magentix.fr/
 - http://www.magentix.fr/divers/variables-et-conditions-utiles-magento.html
