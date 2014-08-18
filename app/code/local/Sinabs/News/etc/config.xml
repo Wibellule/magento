@@ -16,5 +16,12 @@
                 </args>
             </news>
         </routers>
+        <layout> <!-- Déclaration du layout -->
+            <updates>
+                <news> <!-- Nom du module -->
+                    <file>news.xml</file>
+                </news>
+            </updates>
+        </layout>
     </frontend>
 </config>
