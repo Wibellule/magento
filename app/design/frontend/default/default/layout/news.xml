@@ -8,4 +8,10 @@
             </action>
         </reference>
     </default>  
+    <!-- Layout pour la déclaration du Block -->
+    <news_index_index>
+        <reference name="content">
+            <block type="news/news" template="news/all.phtml" name="news.all" as="all" />
+        </reference>
+    </news_index_index>
 </layout>
