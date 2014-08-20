@@ -6,6 +6,14 @@
             <version>0.1.0</version>
         </Sinabs_News>
     </modules>
+    <!-- Un block permet d’associer une classe PHP à une vue afin de séparer le code métier du rendu -->
+    <global>
+        <blocks>
+            <news>
+                <class>Sinabs_News_Block</class>
+            </news>
+        </blocks>
+    </global>
     <frontend>
         <routers>
             <news> <!-- Nom du module -->
