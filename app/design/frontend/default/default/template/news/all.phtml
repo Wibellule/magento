@@ -1,0 +1,16 @@
+<?php $_news = $this->getAllNews(); ?>
+<div class="news-wrapper">
+    <?php foreach ($_news as $item) : ?>
+        <div class="news">
+            <div class="title">
+                <?php echo $item['title']; ?>
+            </div>
+            <div class="news-short-content">
+                <?php echo $item['short_content']; ?>
+                <p>
+                    <a href="<?php echo $this->getUrl('news/index/view', array('id' => $item['id'])); ?>"><?php echo $this->__('Lire la suite'); ?></a>
+                </p>
+            </div>
+        </div>
+    <?php endforeach; ?>
+</div>
