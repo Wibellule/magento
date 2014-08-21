@@ -15,3 +15,4 @@ CheatSheet
 
 - http://www.magentix.fr/
 - http://www.magentix.fr/divers/variables-et-conditions-utiles-magento.html
+- http://bloggento.fr/getmodel-une-methode-importante-de-magento-/2346#.U_ZnFbx_s5J
