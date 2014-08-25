@@ -8,6 +8,7 @@ version 1.9.0.1
 
 Liens utiles
 
+- http://www.pierrefay.fr/tutoriel-magento-developpeur-guide-1
 - http://blog.sinabs.fr/category/developpement/
 - http://bloggento.fr/
 
